@@ -63,6 +63,9 @@ If downloaded as a zip, extract it and open in terminal.
 
 composer install
 
+npm install 
+npm run dev
+
 php artisan migrate
 
 php artisan db:seed
