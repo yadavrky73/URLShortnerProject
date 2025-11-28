@@ -64,6 +64,7 @@ Super Admin login details
  username :- super_admin@admin.com
  password :- 123456789
  loginUrl :- http://127.0.0.1:8000/login
+ Node command :- npm run dev
 
 
 ---
