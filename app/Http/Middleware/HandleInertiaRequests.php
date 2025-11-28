@@ -2,7 +2,6 @@
 
 namespace App\Http\Middleware;
 
-use App\Enums\ModelStatus;
 use Illuminate\Http\Request;
 use Inertia\Middleware;
 

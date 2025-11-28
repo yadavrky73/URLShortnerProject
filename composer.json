@@ -1,7 +1,7 @@
 {
-    "name": "coderomeos/laravel-inertia-react-shadcn-boilerplate",
+    "name": "UrlShortnerProject",
     "type": "project",
-    "description": "The skeleton inertiajs with shadcn boilerplate application template for the Laravel framework.",
+    "description": "The inertiajs Laravel framework.",
     "keywords": [
         "laravel",
         "framework",
@@ -10,19 +10,10 @@
         "boilerplate"
     ],
     "authors": [
+       
         {
-            "name": "Abid Raza",
-            "homepage": "https://github.com/ariabid",
-            "role": "Developer"
-        },
-        {
-            "name": "Shubham Surya",
-            "homepage": "https://github.com/ninja1ndia",
-            "role": "Developer"
-        },
-        {
-            "name": "Gautam Kumar",
-            "homepage": "https://github.com/r8here",
+            "name": "Rohit Yadav",
+            "homepage": "https://github.com/yadavrky73",
             "role": "Developer"
         }
     ],

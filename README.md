@@ -26,10 +26,8 @@ This is ideal for both developers and non-technical users to design pages quickl
 - React + Inertia.js SPA frontend  
 - Shadcn UI components  
 - Role & permission management  
-- Super Admin, Admin, and User roles  
-- Manage pages, posts, media, users, and more  
-- Fully customizable UI Builder  
-- Database-driven CMS  
+- Super Admin, Admin, and Member roles    
+- Database-driven CMS Mysql 
 - Secure, scalable architecture  
 
 ---
@@ -49,21 +47,13 @@ This is ideal for both developers and non-technical users to design pages quickl
 
 ## Installation Guide
 
-Follow the steps carefully to install the CMS.
+Clone the Project :- git clone https://github.com/yadavrky73/URLShortnerProject 
+Composer install
 
----
-
-###  Clone or Download the Project  
-If downloaded as a zip, extract it and open in terminal.
-
----
-
-###  Install PHP Dependencies  
-```bash
-
-composer install
+update the .env file create the database , username and password
 
 npm install 
+
 npm run dev
 
 php artisan migrate
@@ -74,5 +64,16 @@ Super Admin login details
  username :- super_admin@admin.com
  password :- 123456789
  loginUrl :- http://127.0.0.1:8000/login
+
+
+---
+
+###  Clone or Download the Project  
+If downloaded as a zip, extract it and open in terminal.
+
+---
+
+###  Install PHP Dependencies  
+```bash
 
 
