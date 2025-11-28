@@ -77,14 +77,15 @@ If downloaded as a zip, extract it and open in terminal.
 ###  Install PHP Dependencies  
 ```bash
 
-npm install 
+Composer install
 
-npm run dev
+npm install 
 
 php artisan migrate
 
 php artisan db:seed
 
-Composer install
+npm run dev
+
 
 
