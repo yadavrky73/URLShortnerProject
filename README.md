@@ -69,10 +69,6 @@ Super Admin login details
 
 ---
 
-###  Clone or Download the Project  
-If downloaded as a zip, extract it and open in terminal.
-
----
 
 ###  Install PHP Dependencies  
 ```bash
